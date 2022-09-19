@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\bin\Debug\netcoreapp3.1\TP05.exe
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\bin\Debug\netcoreapp3.1\TP05.deps.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\bin\Debug\netcoreapp3.1\TP05.runtimeconfig.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\bin\Debug\netcoreapp3.1\TP05.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\bin\Debug\netcoreapp3.1\TP05.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\bin\Debug\netcoreapp3.1\TP05.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.Form1.resources
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP05\TP05\obj\Debug\netcoreapp3.1\TP05.csproj.GenerateResource.cache

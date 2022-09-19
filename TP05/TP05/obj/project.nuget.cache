@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1IYvwVYjB/ElCbzLffCD7A4xbTJfBaAeZLR0WAIWYL4197agAvxwSVSERXC5hi6/0ho2uNKq78ZUTnk81xuhCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\6º semestre\\Sistemas distribuídos\\TP05\\TP05\\TP05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
