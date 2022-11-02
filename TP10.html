@@ -1,0 +1,56 @@
+<html>
+<body style="font-family: Arial, Helvetica, sans-serif;">
+   <script type="text/javascript">
+      xmlhttp = new XMLHttpRequest();
+      xmlhttp.open("GET", "voos.xml", false);
+      xmlhttp.send();
+      xmlDoc = xmlhttp.responseXML;
+      document.write("<h1>Documento carregado com sucesso</h1>");
+      document.write("<h2>Primeiro voo</h2>");
+      document.write("Origem: ");
+      document.write(xmlDoc.getElementsByTagName("origem")[0].childNodes[0].nodeValue);
+      document.write("<br />Destino: ");
+      document.write(xmlDoc.getElementsByTagName("destino")[0].childNodes[0].nodeValue);
+      document.write("<br />Compania: ");
+      document.write(xmlDoc.getElementsByTagName("compania")[2].childNodes[0].nodeValue);
+      document.write("<h2>3 primeiros voos</h2>");
+      document.write("Atributo: "+ xmlDoc.getElementsByTagName("voo")[0].attributes[0].nodeName);
+      document.write("<br />");
+      document.write("Valor: " +xmlDoc.getElementsByTagName("voo")[0].attributes[0].nodeValue);
+      document.write("<br />");
+      document.write("Atributo: "+ xmlDoc.getElementsByTagName("voo")[1].attributes[0].nodeName);
+      document.write("<br />");
+      document.write("Valor: " +xmlDoc.getElementsByTagName("voo")[1].attributes[0].nodeValue);
+      document.write("<br />");
+      document.write("Atributo: "+ xmlDoc.getElementsByTagName("voo")[2].attributes[0].nodeName);
+      document.write("<br />");
+      document.write("Valor: " +xmlDoc.getElementsByTagName("voo")[2].attributes[0].nodeValue);
+      document.write("<h2>Destinos</h2>");
+      x=xmlDoc.getElementsByTagName("movimento")[0].childNodes;
+      for (i=0;i<x.length;i++)
+      {
+         if (x[i].nodeType==1)
+         {
+            document.write(x[i].getElementsByTagName("destino")[0].childNodes[0].nodeValue);
+            document.write("<br />");
+         }
+      }
+      document.write("<h2>Todos os voos</h2>");
+      y=xmlDoc.getElementsByTagName("movimento")[0].childNodes;
+      for (i=0;i<x.length;i++)
+      {
+         
+         if (x[i].nodeType==1)
+         {
+            document.write("Codigo: " +  x[i].attributes[0].nodeValue);
+            document.write(" - Compania: " + x[i].getElementsByTagName("compania")[0].childNodes[0].nodeValue);
+            document.write(" - Origem: " + x[i].getElementsByTagName("origem")[0].childNodes[0].nodeValue);
+            document.write(" - Destino: " + x[i].getElementsByTagName("destino")[0].childNodes[0].nodeValue);
+            document.write(" - Operando: " + x[i].getElementsByTagName("operando")[0].childNodes[0].nodeValue);
+            document.write(" - Horario: " + x[i].getElementsByTagName("horario")[0].childNodes[0].nodeValue);
+            document.write("<br />");
+         }
+      }
+   </script>
+</body>
+</html>
