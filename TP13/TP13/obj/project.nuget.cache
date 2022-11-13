@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2p+SrzAPRJr6XMQfcPEJlktGD71nPcJLoFRvoDmSfLAeU9OhXOOFIeHxqVIz1HqG1wnCkXMel2oE0ifxet/hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\6º semestre\\Sistemas distribuídos\\TP13\\TP13\\TP13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

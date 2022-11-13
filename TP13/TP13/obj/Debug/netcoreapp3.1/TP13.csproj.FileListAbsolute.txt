@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\bin\Debug\netcoreapp3.1\TP13.exe
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\bin\Debug\netcoreapp3.1\TP13.deps.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\bin\Debug\netcoreapp3.1\TP13.runtimeconfig.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\bin\Debug\netcoreapp3.1\TP13.runtimeconfig.dev.json
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\bin\Debug\netcoreapp3.1\TP13.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\bin\Debug\netcoreapp3.1\TP13.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.Form1.resources
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.dll
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.pdb
+C:\Users\Gabriel\Desktop\6º semestre\Sistemas distribuídos\TP13\TP13\obj\Debug\netcoreapp3.1\TP13.genruntimeconfig.cache
